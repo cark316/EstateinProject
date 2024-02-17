@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+.font-urbanist-regular {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 400;
+}
+
+.font-urbanist-medium {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 500;
+}
+
+.font-urbanist-semibold {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 600;
+}
+
+.font-urbanist-bold {
+    font-family: 'Urbanist', sans-serif;
+    font-weight: 700;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
