@@ -1,3 +1,3 @@
-Website hosted on vercel:
+Website hosted on vercel
 
-estatein-project.vercel.app
+Does not work on mobile or smaller screens
